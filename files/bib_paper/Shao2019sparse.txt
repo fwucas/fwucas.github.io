@@ -1,0 +1,10 @@
+@article{Shao2019sparse,
+  title={Research on Piecewise Weighted Inverse Sparse Tracking Algorithm},
+  author={Shao, Hao and Zhang, Ying and Wang, Fei and Zhang, Dongbo and Xue Liang},
+  journal={Computer Engineering and Applications},
+  year={2019},
+  volume={55},
+  number={4},
+  pages={159-162},
+  doi={10.3778/j.issn.1002-8331.1711-0220}，
+ }

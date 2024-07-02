@@ -1,0 +1,6 @@
+@article{wang2024fa,
+  title={FA-Depth: Toward Fast and Accurate Self-supervised Monocular Depth Estimation},
+  author={Wang, Fei and Cheng, Jun},
+  journal={arXiv preprint arXiv:2405.10885},
+  year={2024}
+}

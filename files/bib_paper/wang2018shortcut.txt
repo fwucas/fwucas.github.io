@@ -1,0 +1,10 @@
+@article{wang2018shortcut,
+  title={Research on Application of Convolutional Neural Networks in Face Recognition Based on Shortcut Connection},
+  author={Wang, Fei and Zhang,Ying and Zhang, Dongbo and Shao, Hao and Cheng, Chaopeng},
+  journal={Jounal of Electonic Measuement and Instumentation},
+  year={2018},
+  volume={32},
+  number={4},
+  pages={80-86},
+  doi={10.13382/j. jemi.2018.04.012}
+}

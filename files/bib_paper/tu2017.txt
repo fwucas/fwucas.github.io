@@ -1,0 +1,10 @@
+@article{tu2017,
+  title={Rapid Recognition Algorithm for Cigarette Cartons Based on Feature of AGAST Corner Domain},
+  author={Tu,Yongtao and Zhang, Ying  and Shao, Hao and  Wang, Fei and  Zhang, Dongbo},
+  journal={Tobacco Science & Technology},
+  year={2017},
+  volume={50},
+  number={5},
+  pages={79-86},
+  doi={10.16135/j.issn1002-0861.2016.0471}  
+}

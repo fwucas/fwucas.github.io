@@ -1,0 +1,10 @@
+@article{wang2019mresnet,
+  title={Research and Application of the Multi-scale Residual Networks Model},
+  author={Wang, Fei and  Zhang, Ying and Shao,Hao and Zhang, Dongbo and Mu Qingping},
+  journal={Jounal of Electonic Measuement and Instumentation},
+  year={2019},
+  volume={33},
+  number={4},
+  pages={19-28},
+  doi={10.13382/j.jemi.B1801688}  
+}

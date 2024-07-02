@@ -1,0 +1,11 @@
+@article{wang2023cbwloss,
+  title={Cbwloss: Constrained Bidirectional Weighted Loss for Self-supervised Learning of Depth and Pose},
+  author={Wang, Fei and Cheng, Jun and Liu, Penglei},
+  journal={IEEE Transactions on Intelligent Transportation Systems (TITS)},
+  year={2023},
+  volume={24},
+  number={6},
+  pages={5803-5821},
+  doi={10.1109/TITS.2023.3250744}，
+  publisher={IEEE}
+}

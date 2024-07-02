@@ -1,0 +1,6 @@
+@inproceedings{wang2021rcar,
+  title={Bidirectional Weighted Loss with Feature Perception for Self-supervised Learning of Consistent Depth-pose},
+  author={Wang, Fei and Cheng, Jun, Penglei Liu},
+  journal={IEEE International Conference on Real-time Computing and Robotics},
+  year={2021}
+}

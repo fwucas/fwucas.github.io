@@ -1,0 +1,8 @@
+@inproceedings{liu2021mfpn,
+  title={MFPN-6D: Real-time One-stage Pose Estimation of Objects on RGB Images},
+  author={Liu, Penglei and Zhang, Qieshi and Zhang, Jin and Wang, Fei and Cheng, Jun},
+  booktitle={2021 IEEE International Conference on Robotics and Automation (ICRA)},
+  pages={12939--12945},
+  year={2021},
+  organization={IEEE}
+}

@@ -1,0 +1,11 @@
+@article{wang2023hqdec,
+  title={HQDec: Self-supervised Monocular Depth Estimation Based on a High-Quality Decoder},
+  author={Wang, Fei and Cheng, Jun},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)},
+  year={2024},
+  volume={34},
+  number={4},
+  pages={2453-2468},
+  doi={10.1109/TCSVT.2023.3312721}，
+  publisher={IEEE}
+}

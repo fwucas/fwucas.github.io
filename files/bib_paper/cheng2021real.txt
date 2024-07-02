@@ -1,0 +1,9 @@
+@article{cheng2021real,
+  title={Real-time and Efficient 6-D Pose Estimation from a Single RGB Image},
+  author={Cheng, Jun and Liu, Penglei and Zhang, Qieshi and Ma, Hui and Wang, Fei and Zhang, Jin},
+  journal={IEEE Transactions on Instrumentation and Measurement},
+  volume={70},
+  pages={1--14},
+  year={2021},
+  publisher={IEEE}
+}
